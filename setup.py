@@ -4,7 +4,7 @@ setup(
     name='gsheets-uploader',
     version='0.1.0',
     packages=['gsheets_uploader'],
-    url='',
+    url='https://github.com/Vikdemen/gsheets-uploader',
     license='MIT',
     author='Demenev Viktor',
     author_email='viktor.demen@gmail.com',
